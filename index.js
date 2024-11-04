@@ -2,7 +2,7 @@ import express from "express";
 import { getvidsrc } from "./src/vidsrcpro.js";
 import { getasiaheroku } from "./src/asiaheroku.js";
 
-const port = 3000;
+const port = 80;
 
 const app = express()
 
