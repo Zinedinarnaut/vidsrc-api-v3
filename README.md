@@ -1,16 +1,5 @@
 # Unoffical Vidsrc API! 👋
-## Sponsorship / Donations
 
-Your sponsorship is vital in helping me achieve this mission. With your support, I can:
-
-Dedicate more time to developing and improving my projects
-Cover costs for essential tools, services and premium hosting to run public projects
-Provide detailed documentation and support for users
-Every contribution, no matter the size, makes a significant impact.
-
-[Sponsor Me!](https://github.com/sponsors/Inside4ndroid)
-
-Thank you for considering supporting my work!
 
 ### NOTE:
 
