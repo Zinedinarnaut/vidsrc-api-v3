@@ -51,7 +51,7 @@ https://your-domain/asiaheroku/1429?s=1&e=1
 
 You can self host by doing the following :
 
-1. `git clone https://github.com/Inside4ndroid/vidsrc-api-js.git`
+1. `git clone https://github.com/zinedinarnaut/vidsrc-api-js.git`
 2. `cd vidsrc-api-js`
 3. `npm install`
 4. `npm run main`
